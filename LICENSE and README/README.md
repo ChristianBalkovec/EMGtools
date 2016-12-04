@@ -1,7 +1,7 @@
 # EMG Tools:
 > Process EMG Data Quickly.
 
-![Logo](Logo.JPG?raw=true)
+![Logo](Logo.jpg?raw=true)
 
 By: Christian Balkovec
 
