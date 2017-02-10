@@ -1,13 +1,15 @@
 # EMG Tools:
 > Process EMG Data Quickly.
 
-![Logo](Logo.jpg?raw=true)
+![Logo](Logo.png?raw=true)
 
 By: Christian Balkovec
 
 EMG Tools was built to process up to 16 channels of raw EMG in the time domain. It takes raw EMG files in .csv format and returns linear enveloped data that is normalized to a maximal voluntary contraction (MVC).
 
 Output options include .csv files of the processed data both in fully sampled and downsampled formats.
+
+for complete documentation, [Visit the EMG Tools Website](www.emgtools.com)
 
 
 ## Installation
