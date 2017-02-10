@@ -9,7 +9,7 @@ EMG Tools was built to process up to 16 channels of raw EMG in the time domain. 
 
 Output options include .csv files of the processed data both in fully sampled and downsampled formats.
 
-for complete documentation, [Visit the EMG Tools Website](www.emgtools.com)
+for complete documentation, [Visit the EMG Tools Website](http://www.emgtools.com)
 
 
 ## Installation
