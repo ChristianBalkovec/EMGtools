@@ -11,6 +11,7 @@ Output options include .csv files of the processed data both in fully sampled an
 
 for complete documentation, [Visit the EMG Tools Website](http://www.emgtools.com)
 
+![Screenshot](main-interface.PNG?raw=true)
 
 ## Installation
 
