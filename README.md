@@ -1,5 +1,5 @@
-# EMG Tools:
-> Process EMG Data Quickly.
+# EMG Tools
+
 
 ![Logo](Logo.png?raw=true)
 
@@ -9,27 +9,17 @@ EMG Tools was built to process up to 16 channels of raw EMG in the time domain. 
 
 Output options include .csv files of the processed data both in fully sampled and downsampled formats.
 
-for complete documentation, [Visit the EMG Tools Website](http://www.emgtools.com)
+for complete documentation, [visit the EMG Tools website](http://www.emgtools.com)
 
 ![Screenshot](main-interface.PNG?raw=true)
 
 ## Installation
 
-Windows 64 bit:
+The source files for EMG Tools can be run within MATLAB
 
-*Requires Matlab Compatible Runtime (prompt to download in EMGtools.exe installer)
-
-```
-EMGtools.exe
-```
-
-
-## Usage
-
-EMG Tools can also be run within MATLAB
-1. Find the EMG_process.m file and double-click from within MATLAB
+1. Find the ``EMG_process.m`` file and double-click from within MATLAB
 2. Press the green 'play' button at the top menu bar
-3. For further usage instructions, see the program manual and instructional videos
+3. For further usage instructions [see the EMG Tools website](http://www.emgtools.com)
 
 
 ## Development
